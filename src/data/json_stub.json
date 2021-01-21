@@ -1,24 +1,24 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Adhitya Tri Anggara",
+        "label": "Fresh Graduate Industrial Engineering",
         "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "email": "adhitore@gmail.com",
+        "phone": "+6282330472796",
+        "website": "adhitore.github.io",
+        "summary": "A summary of Adhitya",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Pakis, Kab. Malang",
+            "postalCode": "65154",
+            "city": "Malang",
+            "countryCode": "IDN",
+            "region": "Jawa Timur"
         },
         "profiles": [
             {
-                "network": "Twitter",
+                "network": "",
                 "username": "john",
-                "url": "http://twitter.com/john"
+                "url": ""
             }
         ]
     },
